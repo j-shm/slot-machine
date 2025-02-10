@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>frog.slotmachine</packageId>
+	<name>Slot Machine</name>
+	<author>frog</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+
+	<description>Adds a slot machine played with silver, get big wins!</description>
+</ModMetaData>

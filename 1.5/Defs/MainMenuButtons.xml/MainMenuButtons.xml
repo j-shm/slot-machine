@@ -1,0 +1,11 @@
+<Defs>
+  <MainButtonDef>
+    <defName>Slots</defName>
+    <label>slots</label>
+    <description>slot machine</description>
+    <tabWindowClass>SlotMachine.MainTabWindow_Slots</tabWindowClass>
+    <order>85</order>
+    <minimized>True</minimized>
+    <validWithoutMap>False</validWithoutMap>
+  </MainButtonDef>
+</Defs>
